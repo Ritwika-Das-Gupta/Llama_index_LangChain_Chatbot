@@ -15,25 +15,5 @@ This project integrates the Llama2 model, Llama_index, and Langchain to create a
 
 ## Installation
 
-[Installation instructions here]
+all installations huggingface models provided in code
 
-## Usage
-
-[Usage instructions here]
-
-## Contributing
-
-[Contribution guidelines here]
-
-## License
-
-[License information here]
-
-## Acknowledgements
-
-- Llama2 model by [link to Llama2]
-- Langchain by [link to Langchain]
-
-## Contact
-
-For questions or support, reach out to [your contact info here].
