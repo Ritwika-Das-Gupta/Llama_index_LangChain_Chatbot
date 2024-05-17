@@ -1,4 +1,4 @@
-# Project Name
+# ResumAI Chatbot
 
 A chatbot to generate responses from PDF resumes using Llama2 model and Langchain integration.
 
